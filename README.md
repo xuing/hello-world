@@ -3,4 +3,4 @@ Here I come
 
 ~~I'm study C++、C# and English. :)~~
 
-I'm studing Java and Network security.
+I'm studing Java and network security.
